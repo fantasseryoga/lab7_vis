@@ -1,0 +1,35 @@
+C:\Users\gorsk\Desktop\C_#\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.AssemblyReference.cache
+C:\Users\gorsk\Desktop\C_#\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorsk\Desktop\C_#\Lab_7\Lab_7\obj\Debug\Lab_7.Properties.Resources.resources
+C:\Users\gorsk\Desktop\C_#\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.GenerateResource.cache
+C:\Users\gorsk\Desktop\C_#\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.CoreCompileInputs.cache
+C:\Users\gorsk\Desktop\C_#\Lab_7\Lab_7\bin\Debug\Lab_7.exe.config
+C:\Users\gorsk\Desktop\C_#\Lab_7\Lab_7\bin\Debug\Lab_7.exe
+C:\Users\gorsk\Desktop\C_#\Lab_7\Lab_7\bin\Debug\Lab_7.pdb
+C:\Users\gorsk\Desktop\C_#\Lab_7\Lab_7\bin\Debug\EntityFramework.dll
+C:\Users\gorsk\Desktop\C_#\Lab_7\Lab_7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gorsk\Desktop\C_#\Lab_7\Lab_7\bin\Debug\EntityFramework.xml
+C:\Users\gorsk\Desktop\C_#\Lab_7\Lab_7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gorsk\Desktop\C_#\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.CopyComplete
+C:\Users\gorsk\Desktop\C_#\Lab_7\Lab_7\obj\Debug\Lab_7.exe
+C:\Users\gorsk\Desktop\C_#\Lab_7\Lab_7\obj\Debug\Lab_7.pdb
+C:\Users\gorsk\Desktop\C_#\Lab_7\Lab_7\obj\Debug\Lab_7.Form1.resources
+C:\Users\gorsk\Desktop\C_#\Lab_7\Lab_7\obj\Debug\Lab_7.ProductForm.resources
+C:\Users\gorsk\Desktop\C_#\Lab_7\Lab_7\obj\Debug\Lab_7.ProviderForm.resources
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\Новий Архив WinRAR\Lab_7\Lab_7\bin\Debug\Lab_7.exe.config
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\Новий Архив WinRAR\Lab_7\Lab_7\bin\Debug\Lab_7.exe
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\Новий Архив WinRAR\Lab_7\Lab_7\bin\Debug\Lab_7.pdb
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\Новий Архив WinRAR\Lab_7\Lab_7\bin\Debug\EntityFramework.dll
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\Новий Архив WinRAR\Lab_7\Lab_7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\Новий Архив WinRAR\Lab_7\Lab_7\bin\Debug\EntityFramework.xml
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\Новий Архив WinRAR\Lab_7\Lab_7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\Новий Архив WinRAR\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.AssemblyReference.cache
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\Новий Архив WinRAR\Lab_7\Lab_7\obj\Debug\Lab_7.Form1.resources
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\Новий Архив WinRAR\Lab_7\Lab_7\obj\Debug\Lab_7.ProductForm.resources
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\Новий Архив WinRAR\Lab_7\Lab_7\obj\Debug\Lab_7.Properties.Resources.resources
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\Новий Архив WinRAR\Lab_7\Lab_7\obj\Debug\Lab_7.ProviderForm.resources
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\Новий Архив WinRAR\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.GenerateResource.cache
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\Новий Архив WinRAR\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.CoreCompileInputs.cache
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\Новий Архив WinRAR\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.CopyComplete
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\Новий Архив WinRAR\Lab_7\Lab_7\obj\Debug\Lab_7.exe
+C:\Users\sergo\OneDrive\Рабочий стол\UNIVERSITY\course3_2\Новий Архив WinRAR\Lab_7\Lab_7\obj\Debug\Lab_7.pdb
